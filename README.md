@@ -33,15 +33,16 @@ Curated list of **online hackathons in India (2026)**, including major corporate
 
 ## 📅 March 2026
 
-| Hackathon Name             | Tags                                   | Reg Deadline      | Dates                | Link                         | Fee    |
-|----------------------------|----------------------------------------|-------------------|----------------------|------------------------------|--------|
-| InclusiTech Hack           | #WomenOnly #InclusiveTech              | Mar 1, 2026       | Mar 5–6, 2026         | [Devpost]                     | Free   |
-| GreenCode                  | #TechForGood #Sustainability           | Mar 5, 2026       | Mar 10–11, 2026       | [GreenCode]                  | Free   |
-| CampusX Hack               | #StudentHackathon #ML_AI               | Mar 8, 2026       | Mar 12–13, 2026       | [Unstop]                      | ₹50    |
-| InnovateTN Ideathon        | #TamilNadu #GovtInitiative             | TBD               | Mar 15–17, 2026       | [StartTN]                     | Free   |
-| Women Hack The Future      | #WomenOnly #AI #Design                | Mar 18, 2026      | Mar 22–23, 2026       | [Devfolio]                   | Free   |
-| DreamBuild Ideathon        | #CollegeHack #OpenTheme                | Mar 25, 2026      | Mar 29–30, 2026       | [Hack2Skill]                 | ₹50    |
-| Infosys Global Hackathon   | #PrePlacement #CloudNative #AI        | ~Feb–Mar 2026     | Apr 2026              | [Infosys Hackathon]          | Free   |
+| Hackathon Name             | Tags                                   | Reg Deadline      | Dates                 | Link                         | Fee    |
+|----------------------------|----------------------------------------|-------------------|-----------------------|------------------------------|--------|
+| InclusiTech Hack           | #WomenOnly #InclusiveTech              | Mar 1, 2026       | Mar 5–6, 2026         | [Devpost]                      | Free   |
+| GreenCode                  | #TechForGood #Sustainability           | Mar 5, 2026       | Mar 10–11, 2026       | [GreenCode]                    | Free   |
+| CampusX Hack               | #StudentHackathon #ML_AI               | Mar 8, 2026       | Mar 12–13, 2026       | [Unstop]                       | ₹50    |
+| InnovateTN Ideathon        | #TamilNadu #GovtInitiative             | TBD               | Mar 15–17, 2026       | [StartTN]                      | Free   |
+| Women Hack The Future      | #WomenOnly #AI #Design                 | Mar 18, 2026      | Mar 22–23, 2026       | [Devfolio]                     | Free   |
+| Watch The Code 2026        | #StudentHackathon #CollegeHack         | Mar 20, 2026      | Mar 21 – Apr 19, 2026 | [Unstop](https://gehu.in/hack) | Free   |
+| DreamBuild Ideathon        | #CollegeHack #OpenTheme                | Mar 25, 2026      | Mar 29–30, 2026       | [Hack2Skill]                   | ₹50    |
+| Infosys Global Hackathon   | #PrePlacement #CloudNative #AI         | ~Feb–Mar 2026     | Apr 2026              | [Infosys Hackathon]            | Free   |
 | TCS CodeVita Season 13     | #PrePlacement #CompetitiveCoding       | Typically Mar 2026| April 2026            | [CodeVita portal] :contentReference[oaicite:1]{index=1} | Free   |
 
 ---
